@@ -11,23 +11,23 @@ These fonts:
 ## Previews
 ### Wilderplace Sans Regular
 
+![divine-preview](assets/sample-sans-1.png)
 ![divine-preview-2](assets/sample-sans-2.png)
-![divine-preview](assets/sample-sans.png)
 
 ### Wilderplace Glitch Regular
 
+![divine-preview](assets/sample-glitch-1.png)
 ![divine-preview-2](assets/sample-glitch-2.png)
-![divine-preview](assets/sample-glitch.png)
 
 ### Wilderplace Pixel Regular
 
+![divine-preview](assets/sample-pixel-1.png)
 ![divine-preview-2](assets/sample-pixel-2.png)
-![divine-preview](assets/sample-pixel.png)
 
 ### Wilderplace Divine Regular
 
+![divine-preview](assets/sample-divine-1.png)
 ![divine-preview-2](assets/sample-divine-2.png)
-![divine-preview](assets/sample-divine.png)
 
 ### CSS Usage
 
