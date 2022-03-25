@@ -1,10 +1,10 @@
 # wilderplace-fonts
 
-A collection of CC0 licensed fonts used [in the upcoming game Wilderplace](https://store.steampowered.com/app/1769640/Wilderplace/). All characters were hand-drawn and then vectorized and converted into font files using [calligraphr](https://www.calligraphr.com/).
+A collection of CC0 licensed fonts from [the upcoming game Wilderplace](https://store.steampowered.com/app/1769640/Wilderplace/). All characters were hand-drawn and then vectorized and converted into font files using [calligraphr](https://www.calligraphr.com/).
 
 These fonts:
 - Are capital-letters only.
-- Character sets includes A-Z, 0-9, and basic punctuation.
+- Character sets include A-Z, 0-9, and basic punctuation.
 - Contain at least one variant per character to sell the hand-drawn look.
 - Use auto-generated tracking from [calligraphr](https://www.calligraphr.com/), which is not very good. You'll have to embrace the raw aesthetic or find another source for your fonts!
 
